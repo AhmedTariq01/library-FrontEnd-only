@@ -1,1 +1,1 @@
-﻿# Ecommerce website library FrontEnd-only
+﻿# Ecommerce website library FrontEnd only
