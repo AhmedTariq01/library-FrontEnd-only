@@ -19,7 +19,7 @@ steps:
   inputs:
     SonarCloud: 'sonar-connect'
     organization: 'web-app-test'
-    scannerMode: 'MSBuild'
+    # scannerMode: 'MSBuild'
     projectKey: 'app-test'
     projectName: 'web-app-test'
 
